@@ -1,4 +1,4 @@
-# c#-and-ASP.net Projects
+# c#-and-ASP.net Assignments
 
 The web application is deployed on Micrsoft Azure with the URL http://dotnet-group6-craigslistapp.azurewebsites.net
 
